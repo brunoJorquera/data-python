@@ -36,5 +36,5 @@ for row in Total:
 
 print("Total:", round(order_price,2))
 
-invoice.close()
+Total.close()
 # ------------------------------------------------------------------------
